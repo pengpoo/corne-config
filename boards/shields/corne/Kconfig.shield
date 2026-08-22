@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 config SHIELD_CORNE_L
-	def_bool $(shields_list_contains,corne_left)
+	def_bool $(shields_list_contains,custom_corne_l)
 
 config SHIELD_CORNE_R
-	def_bool $(shields_list_contains,corne_right)
+	def_bool $(shields_list_contains,custom_corne_r)
