@@ -21,10 +21,10 @@
 include:
   # Corne with nice!view display(with nice_view_custom module) 适用于带nice_view的Corne
   - board: nice_nano_v2
-    shield: corne_left nice_view_config nice_view_custom
+    shield: custom_corne_l nice_view_config nice_view_custom
     snippet: studio-rpc-usb-uart
     artifact-name: corne_left_nice_view
   - board: nice_nano_v2
-    shield: corne_right nice_view_config nice_view_custom
+    shield: custom_corne_r nice_view_config nice_view_custom
     artifact-name: corne_right_nice_view
 
