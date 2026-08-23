@@ -4,4 +4,4 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "../keymapping/base.dtsi"
+#include "keymapping/base.dtsi"
